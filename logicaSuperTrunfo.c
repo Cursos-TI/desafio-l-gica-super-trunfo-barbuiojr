@@ -15,11 +15,9 @@ void main(){
 
     printf("Digite o estado:\n");
     scanf("%s", &estado_1);
-    printf("Estado %s", estado_1);
 
     printf("Digite o codigo:\n");
     scanf("%s", &codigo_1);
-    printf("Codigo %s", codigo_1);
 
     printf("Digite o nome da cidade:\n");
     scanf("%s", &cidade_1);
@@ -91,7 +89,6 @@ void main(){
     printf("PIB per Capita: %.2f reais\n\n", pib_perc_2);
 
 }
-
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
